@@ -1,0 +1,30 @@
+{
+  "tablas": {},
+  "relaciones": [
+    {
+      "tabla": "productos",
+      "columna": "categoria_id",
+      "referencia": "categorias"
+    },
+    {
+      "tabla": "productos",
+      "columna": "proveedor_id",
+      "referencia": "proveedores"
+    },
+    {
+      "tabla": "productos",
+      "columna": "ubicacion_id",
+      "referencia": "ubicaciones"
+    },
+    {
+      "tabla": "ventas",
+      "columna": "cliente_id",
+      "referencia": "clientes"
+    },
+    {
+      "tabla": "compras",
+      "columna": "proveedor_id",
+      "referencia": "proveedores"
+    }
+  ]
+}

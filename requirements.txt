@@ -1,0 +1,28 @@
+# Requisitos principales
+openai==1.72.0
+anthropic
+mysql-connector-python
+Schema
+python-dotenv
+pyyaml
+matplotlib
+pandas
+requests
+click
+
+# Dependencias para base de datos
+pymysql
+psycopg2-binary
+
+# Dependencias para detección de sistema
+psutil
+
+# Dependencias para notebooks y desarrollo
+ipykernel
+pyprojroot
+
+# Dependencias para CrewAI (si se usa)
+crewai
+
+# Dependencias para pruebas
+pytest

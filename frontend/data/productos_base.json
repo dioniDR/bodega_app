@@ -1,0 +1,602 @@
+{
+  "001-001-001": {
+    "codigo": "001-001-001",
+    "nombre": "Arroz 1kg",
+    "precio": 5.82,
+    "stock": 7
+  },
+  "001-001-002": {
+    "codigo": "001-001-002",
+    "nombre": "Harina de ma\u00edz",
+    "precio": 0.55,
+    "stock": 14
+  },
+  "001-001-003": {
+    "codigo": "001-001-003",
+    "nombre": "Az\u00facar 1kg",
+    "precio": 3.21,
+    "stock": 23
+  },
+  "001-001-004": {
+    "codigo": "001-001-004",
+    "nombre": "Lentejas",
+    "precio": 5.18,
+    "stock": 13
+  },
+  "001-001-005": {
+    "codigo": "001-001-005",
+    "nombre": "Pasta",
+    "precio": 0.66,
+    "stock": 5
+  },
+  "001-001-006": {
+    "codigo": "001-001-006",
+    "nombre": "Frijoles",
+    "precio": 1.51,
+    "stock": 25
+  },
+  "001-001-007": {
+    "codigo": "001-001-007",
+    "nombre": "Sal",
+    "precio": 5.68,
+    "stock": 9
+  },
+  "001-001-008": {
+    "codigo": "001-001-008",
+    "nombre": "Avena",
+    "precio": 0.9,
+    "stock": 11
+  },
+  "001-001-009": {
+    "codigo": "001-001-009",
+    "nombre": "Harina de trigo",
+    "precio": 0.58,
+    "stock": 21
+  },
+  "001-001-010": {
+    "codigo": "001-001-010",
+    "nombre": "Maicena",
+    "precio": 3.18,
+    "stock": 20
+  },
+  "002-001-001": {
+    "codigo": "002-001-001",
+    "nombre": "Refresco 2L",
+    "precio": 1.79,
+    "stock": 11
+  },
+  "002-001-002": {
+    "codigo": "002-001-002",
+    "nombre": "Maltas",
+    "precio": 4.82,
+    "stock": 14
+  },
+  "002-001-003": {
+    "codigo": "002-001-003",
+    "nombre": "Jugo en caja",
+    "precio": 1.15,
+    "stock": 16
+  },
+  "002-001-004": {
+    "codigo": "002-001-004",
+    "nombre": "Agua mineral",
+    "precio": 0.6,
+    "stock": 5
+  },
+  "002-001-005": {
+    "codigo": "002-001-005",
+    "nombre": "T\u00e9 fr\u00edo",
+    "precio": 0.52,
+    "stock": 9
+  },
+  "002-001-006": {
+    "codigo": "002-001-006",
+    "nombre": "Energizante",
+    "precio": 3.92,
+    "stock": 6
+  },
+  "002-001-007": {
+    "codigo": "002-001-007",
+    "nombre": "Bebida l\u00e1ctea",
+    "precio": 3.33,
+    "stock": 5
+  },
+  "002-001-008": {
+    "codigo": "002-001-008",
+    "nombre": "Leche 1L",
+    "precio": 0.77,
+    "stock": 8
+  },
+  "002-001-009": {
+    "codigo": "002-001-009",
+    "nombre": "Caf\u00e9",
+    "precio": 1.3,
+    "stock": 25
+  },
+  "002-001-010": {
+    "codigo": "002-001-010",
+    "nombre": "Leche en polvo",
+    "precio": 4.76,
+    "stock": 6
+  },
+  "003-001-001": {
+    "codigo": "003-001-001",
+    "nombre": "Galletas",
+    "precio": 2.49,
+    "stock": 28
+  },
+  "003-001-002": {
+    "codigo": "003-001-002",
+    "nombre": "Caramelos",
+    "precio": 3.43,
+    "stock": 19
+  },
+  "003-001-003": {
+    "codigo": "003-001-003",
+    "nombre": "Chocolates",
+    "precio": 1.48,
+    "stock": 29
+  },
+  "003-001-004": {
+    "codigo": "003-001-004",
+    "nombre": "Chupetas",
+    "precio": 3.36,
+    "stock": 10
+  },
+  "003-001-005": {
+    "codigo": "003-001-005",
+    "nombre": "Chicles",
+    "precio": 4.09,
+    "stock": 17
+  },
+  "003-001-006": {
+    "codigo": "003-001-006",
+    "nombre": "Turr\u00f3n",
+    "precio": 0.77,
+    "stock": 13
+  },
+  "003-001-007": {
+    "codigo": "003-001-007",
+    "nombre": "Bombones",
+    "precio": 4.2,
+    "stock": 7
+  },
+  "003-001-008": {
+    "codigo": "003-001-008",
+    "nombre": "Galletas rellenas",
+    "precio": 2.42,
+    "stock": 6
+  },
+  "003-001-009": {
+    "codigo": "003-001-009",
+    "nombre": "Pirul\u00edn",
+    "precio": 5.92,
+    "stock": 6
+  },
+  "003-001-010": {
+    "codigo": "003-001-010",
+    "nombre": "Torta empacada",
+    "precio": 3.22,
+    "stock": 13
+  },
+  "004-001-001": {
+    "codigo": "004-001-001",
+    "nombre": "Jab\u00f3n",
+    "precio": 3.08,
+    "stock": 15
+  },
+  "004-001-002": {
+    "codigo": "004-001-002",
+    "nombre": "Champ\u00fa",
+    "precio": 5.84,
+    "stock": 20
+  },
+  "004-001-003": {
+    "codigo": "004-001-003",
+    "nombre": "Crema dental",
+    "precio": 0.77,
+    "stock": 10
+  },
+  "004-001-004": {
+    "codigo": "004-001-004",
+    "nombre": "Desodorante",
+    "precio": 5.1,
+    "stock": 25
+  },
+  "004-001-005": {
+    "codigo": "004-001-005",
+    "nombre": "Papel higi\u00e9nico",
+    "precio": 4.04,
+    "stock": 8
+  },
+  "004-001-006": {
+    "codigo": "004-001-006",
+    "nombre": "Afeitadora",
+    "precio": 2.2,
+    "stock": 15
+  },
+  "004-001-007": {
+    "codigo": "004-001-007",
+    "nombre": "Toallas sanitarias",
+    "precio": 4.34,
+    "stock": 7
+  },
+  "004-001-008": {
+    "codigo": "004-001-008",
+    "nombre": "Enjuague bucal",
+    "precio": 5.94,
+    "stock": 16
+  },
+  "004-001-009": {
+    "codigo": "004-001-009",
+    "nombre": "Peine",
+    "precio": 4.43,
+    "stock": 21
+  },
+  "004-001-010": {
+    "codigo": "004-001-010",
+    "nombre": "Pa\u00f1uelos",
+    "precio": 1.34,
+    "stock": 9
+  },
+  "005-001-001": {
+    "codigo": "005-001-001",
+    "nombre": "Detergente",
+    "precio": 2.48,
+    "stock": 11
+  },
+  "005-001-002": {
+    "codigo": "005-001-002",
+    "nombre": "Jab\u00f3n azul",
+    "precio": 0.76,
+    "stock": 11
+  },
+  "005-001-003": {
+    "codigo": "005-001-003",
+    "nombre": "Suavizante",
+    "precio": 3.54,
+    "stock": 12
+  },
+  "005-001-004": {
+    "codigo": "005-001-004",
+    "nombre": "Desinfectante",
+    "precio": 1.95,
+    "stock": 20
+  },
+  "005-001-005": {
+    "codigo": "005-001-005",
+    "nombre": "Cloro",
+    "precio": 2.9,
+    "stock": 26
+  },
+  "005-001-006": {
+    "codigo": "005-001-006",
+    "nombre": "Escoba",
+    "precio": 1.32,
+    "stock": 28
+  },
+  "005-001-007": {
+    "codigo": "005-001-007",
+    "nombre": "Trapo",
+    "precio": 4.51,
+    "stock": 16
+  },
+  "005-001-008": {
+    "codigo": "005-001-008",
+    "nombre": "Esponja",
+    "precio": 2.32,
+    "stock": 19
+  },
+  "005-001-009": {
+    "codigo": "005-001-009",
+    "nombre": "Limpiador",
+    "precio": 5.13,
+    "stock": 16
+  },
+  "005-001-010": {
+    "codigo": "005-001-010",
+    "nombre": "Bolsas basura",
+    "precio": 3.63,
+    "stock": 19
+  },
+  "006-001-001": {
+    "codigo": "006-001-001",
+    "nombre": "Buj\u00eda",
+    "precio": 2.07,
+    "stock": 27
+  },
+  "006-001-002": {
+    "codigo": "006-001-002",
+    "nombre": "Pastillas freno",
+    "precio": 1.35,
+    "stock": 8
+  },
+  "006-001-003": {
+    "codigo": "006-001-003",
+    "nombre": "Aceite 2T",
+    "precio": 5.87,
+    "stock": 28
+  },
+  "006-001-004": {
+    "codigo": "006-001-004",
+    "nombre": "Aceite 4T",
+    "precio": 0.73,
+    "stock": 29
+  },
+  "006-001-005": {
+    "codigo": "006-001-005",
+    "nombre": "Kit cadena",
+    "precio": 1.19,
+    "stock": 7
+  },
+  "006-001-006": {
+    "codigo": "006-001-006",
+    "nombre": "Filtro aceite",
+    "precio": 4.83,
+    "stock": 19
+  },
+  "006-001-007": {
+    "codigo": "006-001-007",
+    "nombre": "Fusibles",
+    "precio": 3.63,
+    "stock": 30
+  },
+  "006-001-008": {
+    "codigo": "006-001-008",
+    "nombre": "Cable embrague",
+    "precio": 1.75,
+    "stock": 29
+  },
+  "006-001-009": {
+    "codigo": "006-001-009",
+    "nombre": "Correa",
+    "precio": 5.31,
+    "stock": 25
+  },
+  "006-001-010": {
+    "codigo": "006-001-010",
+    "nombre": "L\u00e1mpara",
+    "precio": 5.94,
+    "stock": 12
+  },
+  "007-001-001": {
+    "codigo": "007-001-001",
+    "nombre": "Tornillos",
+    "precio": 2.01,
+    "stock": 7
+  },
+  "007-001-002": {
+    "codigo": "007-001-002",
+    "nombre": "Clavos",
+    "precio": 2.85,
+    "stock": 15
+  },
+  "007-001-003": {
+    "codigo": "007-001-003",
+    "nombre": "Pega",
+    "precio": 4.77,
+    "stock": 18
+  },
+  "007-001-004": {
+    "codigo": "007-001-004",
+    "nombre": "Cinta aislante",
+    "precio": 5.76,
+    "stock": 6
+  },
+  "007-001-005": {
+    "codigo": "007-001-005",
+    "nombre": "Lija",
+    "precio": 2.19,
+    "stock": 9
+  },
+  "007-001-006": {
+    "codigo": "007-001-006",
+    "nombre": "Trincheta",
+    "precio": 3.14,
+    "stock": 18
+  },
+  "007-001-007": {
+    "codigo": "007-001-007",
+    "nombre": "Brocha",
+    "precio": 3.77,
+    "stock": 22
+  },
+  "007-001-008": {
+    "codigo": "007-001-008",
+    "nombre": "Cinta m\u00e9trica",
+    "precio": 5.06,
+    "stock": 16
+  },
+  "007-001-009": {
+    "codigo": "007-001-009",
+    "nombre": "Silic\u00f3n",
+    "precio": 2.93,
+    "stock": 17
+  },
+  "007-001-010": {
+    "codigo": "007-001-010",
+    "nombre": "Cable el\u00e9ctrico",
+    "precio": 2.45,
+    "stock": 19
+  },
+  "008-001-001": {
+    "codigo": "008-001-001",
+    "nombre": "L\u00e1pices",
+    "precio": 1.18,
+    "stock": 16
+  },
+  "008-001-002": {
+    "codigo": "008-001-002",
+    "nombre": "Sacapuntas",
+    "precio": 1.95,
+    "stock": 27
+  },
+  "008-001-003": {
+    "codigo": "008-001-003",
+    "nombre": "Cuaderno",
+    "precio": 4.69,
+    "stock": 5
+  },
+  "008-001-004": {
+    "codigo": "008-001-004",
+    "nombre": "Bol\u00edgrafo",
+    "precio": 1.79,
+    "stock": 11
+  },
+  "008-001-005": {
+    "codigo": "008-001-005",
+    "nombre": "Borrador",
+    "precio": 5.73,
+    "stock": 15
+  },
+  "008-001-006": {
+    "codigo": "008-001-006",
+    "nombre": "Marcador",
+    "precio": 2.8,
+    "stock": 16
+  },
+  "008-001-007": {
+    "codigo": "008-001-007",
+    "nombre": "Papel carta",
+    "precio": 3.34,
+    "stock": 25
+  },
+  "008-001-008": {
+    "codigo": "008-001-008",
+    "nombre": "Clips",
+    "precio": 4.04,
+    "stock": 11
+  },
+  "008-001-009": {
+    "codigo": "008-001-009",
+    "nombre": "Pegamento",
+    "precio": 2.57,
+    "stock": 15
+  },
+  "008-001-010": {
+    "codigo": "008-001-010",
+    "nombre": "Carpetas",
+    "precio": 3.87,
+    "stock": 30
+  },
+  "009-001-001": {
+    "codigo": "009-001-001",
+    "nombre": "Velas",
+    "precio": 5.91,
+    "stock": 29
+  },
+  "009-001-002": {
+    "codigo": "009-001-002",
+    "nombre": "F\u00f3sforos",
+    "precio": 2.06,
+    "stock": 28
+  },
+  "009-001-003": {
+    "codigo": "009-001-003",
+    "nombre": "Pilas AA",
+    "precio": 5.63,
+    "stock": 27
+  },
+  "009-001-004": {
+    "codigo": "009-001-004",
+    "nombre": "Pilas AAA",
+    "precio": 2.23,
+    "stock": 22
+  },
+  "009-001-005": {
+    "codigo": "009-001-005",
+    "nombre": "Tijeras",
+    "precio": 1.64,
+    "stock": 21
+  },
+  "009-001-006": {
+    "codigo": "009-001-006",
+    "nombre": "Ganchos",
+    "precio": 5.26,
+    "stock": 16
+  },
+  "009-001-007": {
+    "codigo": "009-001-007",
+    "nombre": "Cinta adhesiva",
+    "precio": 3.07,
+    "stock": 20
+  },
+  "009-001-008": {
+    "codigo": "009-001-008",
+    "nombre": "Reloj",
+    "precio": 1.35,
+    "stock": 20
+  },
+  "009-001-009": {
+    "codigo": "009-001-009",
+    "nombre": "Abanico",
+    "precio": 2.36,
+    "stock": 8
+  },
+  "009-001-010": {
+    "codigo": "009-001-010",
+    "nombre": "Cepillo mascotas",
+    "precio": 3.79,
+    "stock": 7
+  },
+  "010-001-001": {
+    "codigo": "010-001-001",
+    "nombre": "Globos",
+    "precio": 1.46,
+    "stock": 18
+  },
+  "010-001-002": {
+    "codigo": "010-001-002",
+    "nombre": "Velitas",
+    "precio": 5.43,
+    "stock": 14
+  },
+  "010-001-003": {
+    "codigo": "010-001-003",
+    "nombre": "Antifaces",
+    "precio": 1.42,
+    "stock": 8
+  },
+  "010-001-004": {
+    "codigo": "010-001-004",
+    "nombre": "Banderines",
+    "precio": 1.81,
+    "stock": 17
+  },
+  "010-001-005": {
+    "codigo": "010-001-005",
+    "nombre": "Peines fiesta",
+    "precio": 4.59,
+    "stock": 15
+  },
+  "010-001-006": {
+    "codigo": "010-001-006",
+    "nombre": "Esmalte",
+    "precio": 0.76,
+    "stock": 20
+  },
+  "010-001-007": {
+    "codigo": "010-001-007",
+    "nombre": "Cajitas regalo",
+    "precio": 3.49,
+    "stock": 12
+  },
+  "010-001-008": {
+    "codigo": "010-001-008",
+    "nombre": "Encendedores",
+    "precio": 5.56,
+    "stock": 15
+  },
+  "010-001-009": {
+    "codigo": "010-001-009",
+    "nombre": "Tarjetas",
+    "precio": 1.36,
+    "stock": 17
+  },
+  "010-001-010": {
+    "codigo": "010-001-010",
+    "nombre": "Cotill\u00f3n",
+    "precio": 4.11,
+    "stock": 26
+  }
+}

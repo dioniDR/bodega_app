@@ -1,0 +1,118 @@
+# .gitignore para bodega_app
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*-checkpoint.ipynb
+Untitled*.ipynb
+
+# Logs
+*.log
+logs/
+*.log.*
+
+# Base de datos
+*.db
+*.sqlite
+*.sql
+mysql_data/
+
+# Archivos de configuración locales
+.env
+.env.*
+!.env-example
+*_local.json
+*_config_local.yaml
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+*.bak
+*.swp
+
+# Archivos de salida/resultados
+output/*
+!output/.gitkeep
+analysis/*
+!analysis/.gitkeep
+reports/*
+!reports/.gitkeep
+
+# Módulos OS específicos
+.DS_Store
+Thumbs.db
+
+# Archivos de pruebas y desarrollo
+test_*.json
+debug_*.py
+scratch/
+
+# Credenciales y claves
+*.key
+*.pem
+credentials/
+secrets/
+
+# Node modules (si se usa para frontend)
+node_modules/
+
+# Archivos específicos de bodega# bodega_app/.gitignore
+
+# Dependencias del frontend
+frontend/node_modules/
+frontend/npm-debug.log
+frontend/yarn-error.log
+frontend/yarn-debug.log
+frontend/.pnp/
+frontend/.pnp.js
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/dist/
+frontend/dist-ssr/
+frontend/coverage/
+
+# Variables de entorno
+frontend/.env.local
+frontend/.env.*.local
+
+# Archivos IDE
+frontend/.vscode/*
+!frontend/.vscode/extensions.json
+frontend/.idea
+
+# Archivos de sistema
+frontend/.DS_Store
+frontend/Thumbs.db
+
+# Logs del frontend
+frontend/lerna-debug.log*
+
+# Existe el .gitignore original de bodega_app
+# Aquí se agregan solo las exclusiones específicas del frontend
+bodega_analysis.json
+test_config.json
+

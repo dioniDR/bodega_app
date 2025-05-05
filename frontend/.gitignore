@@ -1,0 +1,88 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn-debug.log
+.pnp/
+.pnp.js
+package-lock.json
+yarn.lock
+
+# Python dependencies
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Ruby dependencies
+vendor/bundle/
+.bundle/
+Gemfile.lock
+
+# Java/Maven/Gradle dependencies
+target/
+.gradle/
+build/
+*.jar
+*.war
+*.ear
+*.class
+
+# PHP dependencies
+vendor/
+composer.lock
+
+# Rust dependencies
+/target/
+Cargo.lock
+
+# Swift/Cocoa dependencies
+Pods/
+*.xcworkspace
+Carthage/
+
+# .NET dependencies
+packages/
+*.nupkg
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
