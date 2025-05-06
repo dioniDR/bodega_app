@@ -116,3 +116,39 @@ frontend/lerna-debug.log*
 bodega_analysis.json
 test_config.json
 
+# Laravel dependencies
+/backend_laravel/vendor/
+/backend_laravel/node_modules/
+
+# Laravel runtime files
+/backend_laravel/storage/*.key
+/backend_laravel/storage/framework/cache/*
+/backend_laravel/storage/framework/sessions/*
+/backend_laravel/storage/framework/views/*
+/backend_laravel/storage/logs/*
+/backend_laravel/bootstrap/cache/*
+
+# Laravel environment files
+/backend_laravel/.env
+/backend_laravel/.env.backup
+/backend_laravel/.env.testing
+
+# PHPUnit
+/backend_laravel/.phpunit.result.cache
+/backend_laravel/phpunit.xml
+
+# Laravel packages
+/backend_laravel/composer.lock
+/backend_laravel/package-lock.json
+/backend_laravel/yarn.lock
+
+# Laravel build assets
+/backend_laravel/public/hot
+/backend_laravel/public/storage
+/backend_laravel/public/css
+/backend_laravel/public/js
+/backend_laravel/public/build
+
+# IDE and editor folders
+/backend_laravel/.idea
+/backend_laravel/.vscode
